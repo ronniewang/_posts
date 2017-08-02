@@ -1,5 +1,5 @@
 # 思考的原则
-:nofooter:
+
 
 [%interactive]
 * [ ] 反过来想

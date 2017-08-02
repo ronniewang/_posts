@@ -1,5 +1,5 @@
 # yum与rpm的关系
-:nofooter:
+
 
 image::../../images/yum.png[]
 

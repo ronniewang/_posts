@@ -1,5 +1,5 @@
 # 目录
-:nofooter:
+
 
 * link:01-preface.html[前言]
 * link:summary.html[概述]

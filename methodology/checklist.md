@@ -1,5 +1,5 @@
 # 我读《清单革命》
-:nofooter:
+
 
 image::../../images/checklist.png[]
 

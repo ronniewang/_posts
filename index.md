@@ -1,5 +1,5 @@
 # Welcome!
-:nofooter:
+
 
 * 认知科学
 ** 思考，快与慢

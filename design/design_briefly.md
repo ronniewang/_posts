@@ -1,5 +1,5 @@
 # 我读《简约至上：交互式设计四策略》
-:nofooter:
+
 
 image::../../images/design-briefly.jpg[]
 

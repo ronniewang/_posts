@@ -1,5 +1,5 @@
 # 扫平一切技能——刻意练习
-:nofooter:
+
 
 这是一篇《刻意练习》的读书笔记，本文转自 http://mp.weixin.qq.com/s/RRzijZ49mfO-y7Yax8RHJA
 
