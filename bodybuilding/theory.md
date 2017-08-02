@@ -11,7 +11,7 @@
 
 有氧和无氧运动的本质上是根据人体的供能系统所占的比重来区分的。一个运动是否是无氧和有氧主要取决于它的供能系统，取决于它的运动强度，然后才是取决于时间。
 
-更详细的解读请参考 https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs[这篇文章]
+更详细的解读请参考 https://zhuanlan.zhihu.com/p/19915080?columnSlug#jszxs[这篇文章]
 
 ### 肌肉增长的原因
 
@@ -110,6 +110,6 @@
 
 ## 5. 参考文献
 
-* 三大供能系统 https://zhuanlan.zhihu.com/p/19915080?columnSlug=jszxs
+* 三大供能系统 https://zhuanlan.zhihu.com/p/19915080?columnSlug#jszxs
 * 《四周练出一身肌肉》 https://book.douban.com/subjectType/19980140/
 * 《硬派健身》 https://book.douban.com/subjectType/26359758/
