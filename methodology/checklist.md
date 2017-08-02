@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
-date: {{ date }}tags:
+date: {{ date }}
+tags:
 ---
 # 我读《清单革命》
 

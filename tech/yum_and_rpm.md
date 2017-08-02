@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
-date: {{ date }}tags:
+date: {{ date }}
+tags:
 ---
 # yum与rpm的关系
 

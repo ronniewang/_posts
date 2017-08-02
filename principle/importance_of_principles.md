@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
-date: {{ date }}tags:
+date: {{ date }}
+tags:
 ---
 # 原则的重要性
 

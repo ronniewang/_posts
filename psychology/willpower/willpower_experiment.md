@@ -1,7 +1,9 @@
 ---
-title: {{ title }}
-date: {{ date }}tags:
+title: 意志力实验：锻炼意志力
+date: {{ date }}
+tags:
 ---
+
 # 意志力实验：锻炼意志力
 
 
