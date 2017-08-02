@@ -1,3 +1,8 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
+
 # 脆弱推手们
 
 

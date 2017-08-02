@@ -1,3 +1,7 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
 # 2016三大黑天鹅事件
 
 

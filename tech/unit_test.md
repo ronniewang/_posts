@@ -1,3 +1,7 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
 # 关于单元测试
 
 

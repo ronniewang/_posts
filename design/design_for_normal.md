@@ -1,3 +1,7 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
 # 我读《写给大家看的设计书》
 
 image::../../images/design-for-normal.png[]

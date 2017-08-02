@@ -1,3 +1,7 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
 # 我读《核心基础运动》
 
 

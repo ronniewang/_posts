@@ -1,3 +1,7 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
 # 怎样正确的沟通交流
 
 

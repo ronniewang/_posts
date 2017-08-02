@@ -1,3 +1,8 @@
+---
+title: {{ title }}
+date: {{ date }}tags:
+---
+
 # 关于跑步
 
 image::../../images/running.png[]
