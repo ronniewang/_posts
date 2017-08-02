@@ -6,7 +6,7 @@ tags:
 
 # yum与rpm的关系
 
-![yum.png](yum.png)
+![yum.png](/images/yum.png)
 
 Rpm最初由Red Hat开发，叫做RedHat Package Manager，后来设计理念被其他许多Linux发行版所接受，引入其中，现在叫做RPM Package Manager，是个递归的命名
 
