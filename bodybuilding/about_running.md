@@ -1,12 +1,12 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: 关于跑步
+date: 2017-06-14
 tags:
 ---
 
 # 关于跑步
 
-image::../../images/running.png[]
+{% asset_img running.png running %}
 
 ## 缘起
 
@@ -26,3 +26,4 @@ image::../../images/running.png[]
 * 热身视频： https://www.youtube.com/watch?v#R0mMyV5OtcM&list#PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index#3
 * 拉伸视频： https://www.youtube.com/watch?v#sPULneNy6L0&t#1017s&list#PLXXG57z7E3OKBW9D9pIlqrDRmS0LNRqli&index#2
 * APP：悦跑圈
+
